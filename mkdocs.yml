@@ -1,0 +1,13 @@
+site_name: Документация Анны Логуновой
+site_description: Site
+site_author: Logunova Anna
+repo_url: http://github.com/crochet_relax/logunova_docs
+theme:
+  name: readthedocs
+  custom_dir: docs
+nav:
+  - Обо мне: index.md
+  - Документы: 
+    - О документации: mydocs/index.md
+    - Сертификат разработчика: mydocs/sert.md
+  
